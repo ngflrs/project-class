@@ -1,3 +1,4 @@
+main.exe
 assets/*
 !assets/.gitignore
 protected/runtime/*
